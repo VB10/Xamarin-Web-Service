@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{4DF95896-DF8A-40DB-8D9D-C2566120D400}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinApiGet/App.xaml.cs">
+    <Files>
+      <File FileName="XamarinApiGet/CloudData/Connection.cs" Line="20" Column="3" />
+      <File FileName="XamarinApiGet/View/ListApi.xaml" Line="1" Column="1" />
+      <File FileName="XamarinApiGet/View/ListApi.xaml.cs" Line="29" Column="36" />
+      <File FileName="XamarinApiGet/Model/User.cs" Line="22" Column="4" />
+      <File FileName="XamarinApiGet/App.xaml.cs" Line="11" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XamarinApiGet.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3155ABB-D022-45EE-9CCD-76BFFE2AA820" />
+</Properties>

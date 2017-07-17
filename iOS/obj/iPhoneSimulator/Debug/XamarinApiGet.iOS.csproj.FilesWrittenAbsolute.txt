@@ -1,0 +1,16 @@
+/Users/vb/Projects/XamarinApiGet/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/vb/Projects/XamarinApiGet/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinApiGet/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/vb/Projects/XamarinApiGet/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/vb/Projects/XamarinApiGet/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/XamarinApiGet.iOS.pdb
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/XamarinApiGet.iOS.exe
+/Users/vb/Projects/XamarinApiGet/iOS/obj/iPhoneSimulator/Debug/XamarinApiGet.iOS.exe
+/Users/vb/Projects/XamarinApiGet/iOS/obj/iPhoneSimulator/Debug/XamarinApiGet.iOS.pdb
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/XamarinApiGet.dll
+/Users/vb/Projects/XamarinApiGet/iOS/bin/iPhoneSimulator/Debug/XamarinApiGet.pdb
